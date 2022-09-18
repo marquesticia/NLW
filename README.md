@@ -4,7 +4,7 @@
 
 > Trilha Explorer
 
-Projeto construído no Evento Next Level da Rocketseat.
+Projeto construído no Evento Next Level Week da Rocketseat.
 
 [Click aqui para acessar](https://marquesticia.github.io/NLW/)
 
